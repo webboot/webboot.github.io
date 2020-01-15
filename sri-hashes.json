@@ -10,8 +10,9 @@
     "/tosu/": "sha384-r8La5qYmPxwheNqkY8DhUKg8kBOSxC8qLhv9zcwv5CCK44KgjFqKFR8PNv/yvKDf"
   },
   "static": {
+    "/CNAME": "sha384-9GiOSkS91NIfwb56BWflvL6c0z5JvYw+tESzUB3zgoVAPc3MZNwR6JRiHnbZsGDg",
     "/favicon.ico": "sha384-2+3JlIz5X0jTi6nXrRcklghGfwNEWKhS0C0m60CQxAe9aPmnFDXv2Vhx7sV/GnMY",
-    "/robots.txt": "sha384-WmR5HVgnNqM19VJKg1EfIOZWuigr1cFJCSElz9G/TzjyhEWK7YBXubL4dIQii5eg",
-    "/sitemap.xml": "sha384-t+N2AecrHoRdvJ3sjlhB69VXM69AOvtIHgdR0HaJs2mZ0wcJ//XDGm3sg1/eYmV8"
+    "/robots.txt": "sha384-cw4OTJ1FIcXH8LAnWLjBs82W9lT0PC8iRdYM8xNfRljIZj5t6RZHNpAyx35+D7KL",
+    "/sitemap.xml": "sha384-MyqKZAKdC6CAebWaHUeRbOyYSfrcGVa3JkFd/CEWn4ddF7A/NZYjeMWK4mGfm81Y"
   }
 }

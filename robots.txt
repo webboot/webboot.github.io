@@ -1,3 +1,3 @@
 user-agent: *
 allow: /
-sitemap: https://webboot.github.io/sitemap.xml
+sitemap: https://webboot.org/sitemap.xml
