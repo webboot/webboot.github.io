@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jascha
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://webboot.org
+  * I am jascha (https://keybase.io/jascha) on keybase.
+  * I have a public key ASAjrAROviVHjpz0bDPakmnzrQT46flJFT7Ko58x7VHyIQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101be22f43a5cc046964c3321434dd590273fb328300115a169d462a24c4bd83cbb0a",
+      "host": "keybase.io",
+      "kid": "012023ac044ebe25478e9cf46c33da9269f3ad04f8e9f949153ecaa39f31ed51f2210a",
+      "uid": "981316797245613b8ef15b242cc40100",
+      "username": "jascha"
+    },
+    "merkle_root": {
+      "ctime": 1579063252,
+      "hash": "8d182283bf35c9bf01a8344eadf4e571974f268f40ccab3420ce075f4f5d5b7f67c64ef58ec4ef117eac2f3438d719df1d9c1b56d6959fa36074fc3b2d6847ff",
+      "hash_meta": "30f7baca399a2a673138a4af980fd1b91403c9d2e2ed00284c089e68c56c148c",
+      "seqno": 14231771
+    },
+    "service": {
+      "entropy": "BSls/J9gUlUdGwNyhKzVAijb",
+      "hostname": "webboot.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1579063266,
+  "expire_in": 504576000,
+  "prev": "ce93a237a9ce56987ad0155462e1f407c4f95d0073aedb8287a7b16a5b7d51f0",
+  "seqno": 154,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgI6wETr4lR46c9Gwz2pJp860E+On5SRU+yqOfMe1R8iEKp3BheWxvYWTES5cCzJrEIM6TojepzlaYetAVVGLh9AfE+V0Ac67bgoensWpbfVHwxCD/LFAscoDt1WFFwcyeK9e4oFuEhs4HoLlGirYyibsIQAIBwqNzaWfEQDem8ENxf9hYKxmqXH4Z91tIYZ1setpEJQko/8Xvilautcq/DqRuuOe6YM3BIUFXZ35FrrQRmkp7a2+rAfyeXQCoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCApC0WVaHVLGRhbO7tILm0sRv05fSoKnMh6WBqlQ0ZqfqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jascha
+
+==================================================================
