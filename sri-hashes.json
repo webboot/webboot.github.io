@@ -1,19 +1,27 @@
 {
-  "css": "sha384-aTkApIpjxghWCniQQ0z4jR7fuO7Qmc3yWkGy0K8CQ5ZfczvSMT3bUmiyng65ZbOL",
-  "js": "sha384-lJS/DJHDCaw4H/Hqo6e3mK6k24C+87KE8yMxOFhkBc64svyyF1ZL6XfbKsRXj5+f",
+  "css": "sha384-5MpirEZ4qOkYV8+AxidsJ2DfjarykUjn5+yWPnD4+HoCE5JGgHRPeddxp5RbQ287",
+  "js": "sha384-tanj7YCk4sZ05k71pkR4lwaKwA2FBKFSxWHCRO+NFAzbjfrDbBD7XVb8dlwERX0y",
   "pages": {
-    "/": "sha384-bD7CQ0M+HvLEyX7gS7pv7rd1XPdirN0E0S3RKZTueAPeEvWG57W04olzvvUFepuL",
-    "/404/": "sha384-0S2HhXyEckpQT+xK/3aKF9GdSv2kKEMa0MUMPms8zAK13QffuKIce0MqWYdhzA3K",
-    "/packages/": "sha384-YQzldgGW6v+gDAsZ4DkWTdnx86zghQjxQfmX0K+zH4pTKh6GU2SoXHOqfKXd73bc",
-    "/support/": "sha384-0IEiFFTEjjIWN9mPNJYpE4NeW45+5pgRk7y/YhQenug376E9PsI5LNID+HliIK6+",
-    "/tofu/": "sha384-mB7UNmxI1rLMiJrYfEJW0xyKY6rIEveXQGGIalRIWDM/Zb+iIbu3t17M1OALbAYY",
-    "/tosu/": "sha384-PowT2JpvkuwFzBBhCKHrNxpF5tQn4soOv9bZyXB/HwBxrAkD1Rg+OVA7m5ntwRPo"
+    "/": "sha384-cdCf6q9ntGC9Xg3+jkhMfBWbmd/mdjtbY7w9i70PYSJsW5nRBbYol0IH2i+oa8qZ",
+    "/404/": "sha384-nMnnW1hjhe2oqv5fSyVJogeiyV0T9LHDN7ae433TqUsjC3Myt1DV8DDKGUE0cHRt",
+    "/docs/api/": "sha384-o0zTllbG8nYsgcvm9X7PSg2HY6HENz/hrU6r2G1+TghDhzCbO33ilRlkzNuGrMdt",
+    "/packages/": "sha384-/hdOW/VabQhQiwGT9XZD9bfyub4I5Y/mS+QmIER2gWUi+FF2+3SCBHEDLXhCmllZ",
+    "/privacy/": "sha384-2ezdTzRC3ECWe5k3QvQ8rH4rkSrm4tjz/Mp6UlrYn1btJ0nOy3IPo7MnnrIqbZkb",
+    "/support/": "sha384-3TKgJMTxOHlHUqClnwSL8xUcI0qKqFkRU/0fD/hNBMTAcnIAMGLHTofjLWeYnHrN",
+    "/tofu/": "sha384-yEcs5lv0jNvPAP9W1bnbBbmc+qme63QBgOrDcZIhVziQcrzzkR5Vb/wSI9ai4nz7",
+    "/tosu/": "sha384-4yNfoTk621czogox674Sp8N27ijNcn2Fl/5Jw27N/zo7OS5wGTE5w1Bfc2xURAgv",
+    "/usage/": "sha384-78ebuVJXY+fbwsVrCvvGRS6qmE1UsygyKIgwdF4tNR3Ye56/7cxOXECRthSCG1Nk"
   },
   "static": {
     "/CNAME": "sha384-9GiOSkS91NIfwb56BWflvL6c0z5JvYw+tESzUB3zgoVAPc3MZNwR6JRiHnbZsGDg",
+    "/comics/brainlesstales-tofu.jpg": "sha384-ORvdlyA5IEKvAKBLgz7OZ1x9suKZBIeA+eSVVNRmAXeOaUOqPo5oiRQlY/pZy2kT",
+    "/comics/sebiwi-trust.jpg": "sha384-lAvYxkHl/SxX0mH5xzxrVwEzn9C37kN/SSLBLT/J6OrP6EMCjavTn/93a3Dbz8Og",
     "/favicon.ico": "sha384-D3D87R5s7+44HQs9oMtcu1D7CCWtqtgjBjeS4krjx5F9g/rBjQDeqSthu7HAhPA5",
     "/keybase.txt": "sha384-gJEt/r1LFOdFbzlRkk2M446yxg35C6lgLCEb2sKEyK2mY9gvMlE/akEGJ4zmwhcI",
     "/robots.txt": "sha384-cw4OTJ1FIcXH8LAnWLjBs82W9lT0PC8iRdYM8xNfRljIZj5t6RZHNpAyx35+D7KL",
-    "/sitemap.xml": "sha384-+RL4v12gkfy5RQ/RpetEXs2jpeIiA02u1VqXOlMVlk1s/HsbzVq02+VgQbRf19Ge"
+    "/sitemap.xml": "sha384-7hYGIIufzUNgi91FGILDD2sQszSDasQsFVkHU8GDCrnOy9zcmEnnJP8L4FXwWJQj",
+    "/sponsor/bwb.png": "sha384-lDxoLsJibV9BZrKdc8hbGBQNdHdHfjh4qc/7UXdAZ7T93C6SyQOJhv35qIIS2NnK",
+    "/sponsor/metalab.png": "sha384-pqxk9HGegyykIcqYrjl5sKs8d3lS8G6f3F6Q7KQ3HngB1Luz2INQSFEHnwIqwwzt",
+    "/sponsor/parallele.png": "sha384-N9TOfNlXKechLdFQnkkeKF0hvpiDvbzj7qOJu864XID9K6kzXFlJjNWedK0vk2Np"
   }
 }
