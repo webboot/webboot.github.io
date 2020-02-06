@@ -1,16 +1,16 @@
 {
-  "css": "sha384-aE4xA0ohyILFKVLLT8lUVHjD/qcoytP6jQp0NsVk/kxE8064LExosV6hmy9UQIcE",
-  "js": "sha384-fzYTXMyuCtMItYSu+tZpNhynrw9YWN0kMWF05UuRKxLu/gDeBBRVLPbygy1aGgVM",
+  "css": "sha384-kSJ5OkgPPCBg/OmYqedghreo/8y0r+KTeNlkMfQuOf0SLNOwI8v0wjbc8QgFlddq",
+  "js": "sha384-AlppZbfm8oVBbPytk2uRipPcAQoDF+KsHcPPCS76O7lXF3DxVs+hVCCmLUQ2p6el",
   "pages": {
-    "/": "sha384-Cm8+YxPd2pocNE8Giw37PCnIS7Gr1La+brDEuflQZHkXqXdJrRR/uOSlmj4L1Z1l",
-    "/404/": "sha384-cU1mnZWSNzoTvQd21kpVwBdDHJ7LG+vrVHUU8fXETZm+PxFcTrmxtcuFed7eY9I2",
-    "/docs/api/": "sha384-9Aj4izU6jy+DZqb3DnFuMACXYo6A4BnzpWsfjzygeBkQA9aNroYpfGgS43pfh1Bz",
-    "/getting-started/": "sha384-5ipOdKRwjwyClMPynMWLG4P06IOI+NNV6v7HpEgjExm35KgjICpyHHSAmAWP4pfF",
-    "/packages/": "sha384-9/3LVd1pemDgsowIgxpq52c2vtzF0jeif+CuNN+n5gNC3ooBqsDcwQ7UWelncDHI",
-    "/privacy/": "sha384-hMLNJ1TrQQ3Of2DK7bHWRGDESvg6VbOlcbVxC1puACxenWRegJ8Pf2WAR78vQ8ns",
-    "/support/": "sha384-h+08hFedTASBwSiiyHRT6sIuadOJeNP7ZW0I7JGJgAG5HHQVTBhGMa190xdLQR2B",
-    "/tofu/": "sha384-QCtXYP/sF2jXSk5p6Bwq54LK5nX0Rp6+OAw3d8p5Es46bI6Q+naRMlEomslDdE7e",
-    "/tosu/": "sha384-gPx6Za6e3y78kcahOIs641RmWSMF3cBOPcbTJSVrBf5eRcvbsUeCPW7MG3/DtuLw"
+    "/": "sha384-KI/OeI1Fp0L3KiCsBYdG4mgZjdmAMH0BSPbgVjdoZJgmoV5kYL3ZuF78PeoelJIf",
+    "/404/": "sha384-niGeFWPf0puW5lUJvMA3cR2YDUW8MT8CgcCmOtamauHQTa1MKGJCPpKfz3kC8vnZ",
+    "/docs/api/": "sha384-rSt5jsbmM5kaedmo7LFjU7Zr9JdfaQYncmpcT/BHUlB7vnEVdKEQXHJIssYcNgJF",
+    "/getting-started/": "sha384-fb3EgcJmyfPDJBmpIBsCO1isUrLxZY2D6+533xMLuHdj6qlbRrSjXyRwXY6AgQUW",
+    "/packages/": "sha384-0UdXnYz7Ij6wvZEHXpPJ1qQowrkjoMyuAOLo/tMJPjDXQrwTpY7BaVYWX5GluQh3",
+    "/privacy/": "sha384-mcmjDqutZ6jTmII2vYo5Lb0ZE3tJYjD/3MvFtDI71EJ5CG0J5222hBC48HnMMgno",
+    "/support/": "sha384-p1QCnya7JNKhCkUnypMJ/fKipnmqsyVvPpD3dGyVxPyNZbkQwME1iCQpn3gg7z3W",
+    "/tofu/": "sha384-wdeKCcPHRHGcYjEMEBlzzWwMvvg0uqQux7t3x+LSP53xoNVG+lFhkF+GnraVF0t2",
+    "/tosu/": "sha384-8T6lF1wX10GQnET9Y5OGMVO9lu0rEE1AEXOFbUnjxRa7ZLuvWcRrfuHWpueGcazz"
   },
   "static": {
     "/CNAME": "sha384-9GiOSkS91NIfwb56BWflvL6c0z5JvYw+tESzUB3zgoVAPc3MZNwR6JRiHnbZsGDg",
@@ -22,6 +22,9 @@
     "/sitemap.xml": "sha384-6QnhAbDWbHlNZH3rN8VNlq1taY+Q4rXwFWveORjU7+LfkY4zpv+7UFcboqCRaMof",
     "/sponsor/bwb.png": "sha384-lDxoLsJibV9BZrKdc8hbGBQNdHdHfjh4qc/7UXdAZ7T93C6SyQOJhv35qIIS2NnK",
     "/sponsor/metalab.png": "sha384-pqxk9HGegyykIcqYrjl5sKs8d3lS8G6f3F6Q7KQ3HngB1Luz2INQSFEHnwIqwwzt",
-    "/sponsor/parallele.png": "sha384-N9TOfNlXKechLdFQnkkeKF0hvpiDvbzj7qOJu864XID9K6kzXFlJjNWedK0vk2Np"
+    "/sponsor/parallele.png": "sha384-N9TOfNlXKechLdFQnkkeKF0hvpiDvbzj7qOJu864XID9K6kzXFlJjNWedK0vk2Np",
+    "/team/jascha.jpg": "sha384-Oldr+l3hzby2pLNYm1eqMAFwwC+XWImvSHPWZGR9RwnYU5c8CCDGYPvIAHzwfDnD",
+    "/team/mark.jpg": "sha384-rEMQc2anZgFpePPftkF7dAZUhgrQoR4VDNBGltm0CqdDFWsDRZ+ahGhdxB4wcXai",
+    "/team/michael.jpg": "sha384-Yg+N1qLPdPVkcmgbziotDVMN8PuK/4H/98C6Sh8gXqJtUl6rsAQGhvVNKxEEcHci"
   }
 }
