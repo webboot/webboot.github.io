@@ -1,17 +1,17 @@
 {
-  "css": "sha384-3TibH6540T6tZBy1HM8V2OBxC9kUR+AU3u1fCViWsKvtbBl7iYGFbMw84Spfy/Ou",
-  "js": "sha384-y4fimRJ0mRDqFEfMXz9rHrkLUFiD3vlaXMP1eyX4oj81cB/QQE+KsLy28OfbCssR",
+  "css": "sha384-hfkTvBsIoncYNaEeHQ9iiMnHANAu7us02tkz8wsLmOy5XmPF6onGKwyVkNJ8763/",
+  "js": "sha384-L7TVizyIk8Pb/WqYIUyvx3FrNLPaSToupy7uvsTNuofgSFnLIETjUlQ82eJ0Wxa/",
   "pages": {
-    "/": "sha384-mno0GYj1hJZVW8gixlnSuAmHOn8jp9mhPS4ZX7BfCP+YuWrdLgedX4okU/F5tfwn",
-    "/404/": "sha384-ea7jvShmKzoxOPTTchWtMvvn88kQYc8HVDxShuPq80VmnE40+MB1NT9oYcI6Q1Qf",
-    "/canary/": "sha384-MY2sLSxypPkDONKInHna933TB6S4UAV88HAgT0uDjiBrzQm+3qRAtSoeaf6K/Q4P",
-    "/docs/api/": "sha384-poFkDPs5TVUQ9jp/EucOMMZDgxGCoL4W2CNg0tglp8D5/qbhVJ3mumANNm9ev2zf",
-    "/getting-started/": "sha384-B7DRmbsbGzg/u40wu9W5o2uT2gcrtMeL0zAd8JDTzOWd+/LydKQERwB7XymbpC68",
-    "/packages/": "sha384-EV+a86AVSACKrOPgeYKMu+PmKk5intOtYhy7JbAluNKHq15ra4oQgoBBVoIFlT87",
-    "/privacy/": "sha384-QYBtQ0YAAvsf1Ux1MP2XnzcuU5TY8e+HUdx9j7D5QQm+kwR48Y0o5uxoBgtq7/Qh",
-    "/support/": "sha384-NkIJoy77EbstFpyNFLx04og+z24LH3TO3ZQCLBoXgc/ENRBq2in01gyditEGKYEh",
-    "/tofu/": "sha384-bcQokA9QEhQry0l9IIOgwWucuodMoyMYMTxB/7dRffD7iEsRQX9jH1tleAWwDFmw",
-    "/tosu/": "sha384-EzVQ5sbb+ydMMfT7XMkCeuuwdLXhmMhT9TVrmocc1z03dgWSSeRMQm2OSFPlpYyl"
+    "/": "sha384-2NZFf6tQd1y4zxBgifk7cx45bKOn260Wt4In6WomR121Tnj1VFh+LMvIb3NZCb+C",
+    "/404/": "sha384-4yykBBiyNBq95nnWhowyZL/7+ahYVe3y1/90G5UBXCr/ze1uwsztjWY9taEijqOx",
+    "/canary/": "sha384-/tAuBy1fMxDAOLGQpIDb9TfYudkD2dzUPe6zidJE8W0P+fsX+p2LGllmdK5O1Hn6",
+    "/docs/api/": "sha384-xPUln1K4+Fq72rUN0tig7aixqN8R97SEnTkLg/tlClZk5MLyHz3nu6Pawz5N9cAu",
+    "/getting-started/": "sha384-U+KjUpXwcp5Usk9qY8NI8AwfsR15hvdWIxiVR3injb4or9stxMGgxsB4ZB8EB06q",
+    "/packages/": "sha384-3LqW3TYGTiMkBLawFSFgr+26b3dGqi+TzdmXisL7zHRFRE2A4SHUB1xfGTdXHzuP",
+    "/privacy/": "sha384-zrv8+zH7QxEyCzH6o0vz3B9VAMHlEwq8iPRX/YoIhBNOa78JQAXvh/5zA+bt9DIc",
+    "/support/": "sha384-edpNzm3JZ68Rbm/EXkwSc2mhqxIXPXiFiwDhYHBr641e/a9sNrtGPc6n9Y1BkNru",
+    "/tofu/": "sha384-UOzywSDZg1N7gah/xkpq4IPI+awI+ebkI+gTBEtQEdEzmL3tRk5LC/TQtWWUt4Q8",
+    "/tosu/": "sha384-Fhum3OzgiEqPiaDU3ARVrocK3H6vLiULlba+vo2geVZQk9FO7WsZiyjC+6PQm0Ib"
   },
   "static": {
     "/CNAME": "sha384-9GiOSkS91NIfwb56BWflvL6c0z5JvYw+tESzUB3zgoVAPc3MZNwR6JRiHnbZsGDg",
