@@ -1,16 +1,16 @@
 {
   "css": "sha384-n4IiNFS/7xVgEyMYrngVsv6ztxbGTdIfv36wTiSBI12DXpDZutaI/5cMuLPiyGkr",
-  "js": "sha384-WrWpcW/Nd11AJqZi80QwKrDLw3/E43RQxYl6tgpm7C1SdAaY6T0cCVGDyDY3C+FU",
+  "js": "sha384-ikvQnx/a1rpAAMjxAYOfH/ipboDR1DoQaP0ThUKIOhw2eVSvBw3TXRcGXvEmCY0g",
   "pages": {
-    "/": "sha384-/QJonjdHofGFpXKUAs/69qaxxsroF8OAx4YlPlDufLqR3OA12Plkx4OTotglNOmt",
-    "/404/": "sha384-idujjho/EtYxdYwGqqSLem0yvuEko4g+h6ztIjoIsjLjuQV0jFaDlySdzpvwt3tg",
-    "/canary/": "sha384-1yXPd/lZ4Wr0JynFIL7Jfk86dngte+Yh9Hz8MAxQvq1fX1f7RWPdHfQahiSvzt73",
-    "/docs/api/": "sha384-x/o7oOVAXaBpquCoAm8VJxeX1TgFKEy01RMwL06wmnSJ/cjUXXMF/LPmU0T7dSIh",
-    "/getting-started/": "sha384-35T1dAr7AYG5Bu0kN6Zj3erCYqVI20hNTTcHCR8ioEskaUIle+Ktyj1CQOaX3n98",
-    "/privacy/": "sha384-KXLQxM7/CC+dyfl6DtpFdVCfDSS6GfYFCWUsBqMYZ4FjkigpwsrQ2L3TXc9UyR7c",
-    "/support/": "sha384-8WFGpPnlYnmyaVdmLFtGhRJoEGYqFQE5eBp5UogiAHJwz6eZxXx8tLqJc6Ya20ZQ",
-    "/tofu/": "sha384-jEbAfXrV2sWIx/n8crgcHzrAiuwhaXJXFsgrr64PMKO5U8WVdjuzN9M6bHGm8+xF",
-    "/tosu/": "sha384-nJ/WCOyV4SR0MK4ltlQZRUw+4VwSYdV9Nk46MkfX2MGRc5SKbuJ40xq0h0uLWdT2"
+    "/": "sha384-NF5zX/6jIJvUZjk+SKmuCKvM15SXqUNeFT8fTcocuJdjgGxLC7ghoVW7SRAkW5my",
+    "/404/": "sha384-92nC92iJCP5XPIAsp3Lm6Uf2c8TaGf/4XQZeqkE7OjjJkMRZOPCM3hc+POz4aBmu",
+    "/canary/": "sha384-3m0TizRAyKKaHVY7+35zpMNi7+Yh21ytgWGdRcn7b+2S/Ooae9QaYAfg0JnyzfLi",
+    "/docs/api/": "sha384-WI0UlskjlSutInkwhh4NBDWz7yjYLLl9zAcArMth/o8cfRpuhyrrKgMfpkfDzBJl",
+    "/getting-started/": "sha384-VUSQ7rM9H9GlO1Jn4PYne+J6ksfQNyl6q2XuEM9mVkuscqoKlUhWgVQwyuTcIr4M",
+    "/privacy/": "sha384-UsOJpyVkkek7dUtE5julCElUvy72jBB3GlEDdzpVeN39wz/6rqD6NNpdp8GdQU8n",
+    "/support/": "sha384-Qic4gbxZx6wzkl477Vlso977J6V8G8sqqxKDu5ryNUCMyAotY7sKQ4jS1twBEN6t",
+    "/tofu/": "sha384-4r4xXD6Ed+5DYtix4WNcxZxOmML+ngasNQsiROQ2eshwMBwE/e1NQ+MXm5WsJbfA",
+    "/tosu/": "sha384-N2KTXdJ9Xi6CeeI43P/vyYMYlr033SFr0iTLgbHY6n1Ff2rh8LV22gCpou2q3QkQ"
   },
   "static": {
     "/CNAME": "sha384-9GiOSkS91NIfwb56BWflvL6c0z5JvYw+tESzUB3zgoVAPc3MZNwR6JRiHnbZsGDg",
@@ -26,6 +26,8 @@
     "/support/metalab.xcf": "sha384-pcHBrstShAJRDxzUKQJE35w2AzkCuFvvOG+AtZ4ZJQ+/eef5b0+1hI7zSrzD1iNC",
     "/support/parallele.jpg": "sha384-+oV9vrDqnjYuXWZOQBGniBcxEd6sHsKqKAkxHtEPzzWOh+TEOhQ9ogAKQJdwnVCW",
     "/support/parallele.xcf": "sha384-wxYxhk4qGGpAXV5jTxb+ng0GzGH/syllJVmO5dwLDJvWoxmY22KwQGXMDT96jI6G",
+    "/team/gilo.jpg": "sha384-x30VB9jlWk887HnIuJ4d9FsrYi755vUNlZmyXueadVSoOFA97O+kATEL0VTpwMFM",
+    "/team/gilo.xcf": "sha384-gzkakqM7PycDM/NmtnkdoyTVBSxsNJ4KPE1h/FGar6HYp7GisyqAJ0EYI4Np+Wmh",
     "/team/jascha.jpg": "sha384-zGrV67x/UZgNGuZc82EfP/Y5/n+PQKx7EAL+G/3NSwSTujKIPQiF0EZOOzZ8TzLr",
     "/team/jascha.xcf": "sha384-qQZcV6/FNAcS1wK3fx2+omsa5eTloDgshJpL1MQVdZLDflGKDlrpJGn1hg0zaj1x",
     "/team/kay.jpg": "sha384-tzTrs5HYFMybS6QceRjMmXZLAizU+UxnvS/HH7X4ZPnbOv2zcQAcDjCl+Fbc7fe1",
