@@ -1,16 +1,16 @@
 {
   "css": "sha384-n4IiNFS/7xVgEyMYrngVsv6ztxbGTdIfv36wTiSBI12DXpDZutaI/5cMuLPiyGkr",
-  "js": "sha384-ikvQnx/a1rpAAMjxAYOfH/ipboDR1DoQaP0ThUKIOhw2eVSvBw3TXRcGXvEmCY0g",
+  "js": "sha384-eHskpZZa8lK9RwFCJZdG+owIC3wr7doy+sJWkI7hvwm9LFK8rHOflc1v5IFj8Ozw",
   "pages": {
-    "/": "sha384-NF5zX/6jIJvUZjk+SKmuCKvM15SXqUNeFT8fTcocuJdjgGxLC7ghoVW7SRAkW5my",
-    "/404/": "sha384-92nC92iJCP5XPIAsp3Lm6Uf2c8TaGf/4XQZeqkE7OjjJkMRZOPCM3hc+POz4aBmu",
-    "/canary/": "sha384-3m0TizRAyKKaHVY7+35zpMNi7+Yh21ytgWGdRcn7b+2S/Ooae9QaYAfg0JnyzfLi",
-    "/docs/api/": "sha384-WI0UlskjlSutInkwhh4NBDWz7yjYLLl9zAcArMth/o8cfRpuhyrrKgMfpkfDzBJl",
-    "/getting-started/": "sha384-VUSQ7rM9H9GlO1Jn4PYne+J6ksfQNyl6q2XuEM9mVkuscqoKlUhWgVQwyuTcIr4M",
-    "/privacy/": "sha384-UsOJpyVkkek7dUtE5julCElUvy72jBB3GlEDdzpVeN39wz/6rqD6NNpdp8GdQU8n",
-    "/support/": "sha384-Qic4gbxZx6wzkl477Vlso977J6V8G8sqqxKDu5ryNUCMyAotY7sKQ4jS1twBEN6t",
-    "/tofu/": "sha384-4r4xXD6Ed+5DYtix4WNcxZxOmML+ngasNQsiROQ2eshwMBwE/e1NQ+MXm5WsJbfA",
-    "/tosu/": "sha384-N2KTXdJ9Xi6CeeI43P/vyYMYlr033SFr0iTLgbHY6n1Ff2rh8LV22gCpou2q3QkQ"
+    "/": "sha384-K1uc/L4xtsg98odQ6VnKjV2pD3j3G6kdPgNidbFb+44QN1ikaOVSnbDSUFNr6m+b",
+    "/404/": "sha384-oi3KLj7qVZDO3Il+O/oo0ZVphkMvURliTF/E8/4hGo+IMcdsT/Xf8vFo7JWC+l7R",
+    "/canary/": "sha384-1J7p2lhXnHJcBjTTCwwXrLKKrqJXJty9w7f9/CoEOG81cByyLZoz8LJ+AwYosbD5",
+    "/docs/api/": "sha384-/6s/4i40nbZiOi3JSNfmPLmPfJ8rViJz8PsijRN6MzRjDNnkJ8sRZ9jaytf4E2Cg",
+    "/getting-started/": "sha384-mH31yZ3e88KKuli9SPNc2QUAJLFrXsPjq58Id10sCaYeyqrtm14URyX8oaJ8Op9o",
+    "/privacy/": "sha384-ZFBUUMZv/v268pCv+lb8jmTdL0ht4rzuHj+BaOxd0z/53Iz8d/9N8WzM8pJoSRYr",
+    "/support/": "sha384-uVAEtbJJ5f4gwvDVxJQpOA93RMaYDO6b1r7r5fdK1XRbI0eroFOPZtVAsauwB9rv",
+    "/tofu/": "sha384-Dl8kvNYhiDQzORAFHprFhY8kEv3dlaq9NtTchhJfJGBs1X5cMPw2QzLyU5Pse7Lj",
+    "/tosu/": "sha384-tOPkt72ad85QRiQvaFu4qtXMm4K049UcxXdIGTMl7FPqhrkExnAgkMmDKXvOe7Eg"
   },
   "static": {
     "/CNAME": "sha384-9GiOSkS91NIfwb56BWflvL6c0z5JvYw+tESzUB3zgoVAPc3MZNwR6JRiHnbZsGDg",
