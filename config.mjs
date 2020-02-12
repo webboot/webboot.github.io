@@ -8,8 +8,8 @@ export default {
   THEME: '@webboot/magic-theme',
 
   WEB_ROOT: '/',
-  URL: 'webboot.org',
-  CNAME: 'webboot.org',
+  URL: 'docs.webboot.org',
+  CNAME: 'docs.webboot.org',
 
   HOIST: ['LightSwitch', 'Gdpr'],
 
