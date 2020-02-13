@@ -6,18 +6,12 @@ export const View = state => [
           h2('@webboot'),
           p('trust on every step.'),
           p('created by the @webboot dao.'),
-          Link({ to: '/privacy/', text: 'privacy notice' }),
+          Link({ to: 'https://webboot.org/privacy/', text: 'privacy notice' }),
         ]),
         div({ class: 'Child' }, [
           h2('sitemap'),
           ul([
             li(Link({ to: '/' }, 'index')),
-            li(Link({ to: '/tofu/' }, 'tofu')),
-            li(Link({ to: '/tosu/' }, 'tosu')),
-            li(Link({ to: '/getting-started/' }, 'getting-started')),
-            li(Link({ to: '/privacy/' }, 'privacy')),
-            li(Link({ to: '/canary/' }, 'warrant canary')),
-            li(Link({ to: '/support/' }, 'support')),
           ]),
         ]),
         div({ class: 'Child' }, [
