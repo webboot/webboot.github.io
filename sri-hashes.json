@@ -1,11 +1,11 @@
 {
-  "css": "sha384-SP33GF3RqQYoEWwV7eaZe3VzdQhvpaknB+2WvTnN9N1fObjzsERUxBIHklD2Y7A7",
-  "js": "sha384-OVdyzVDqhwgwxLwliyjE3RujWLOTPXg+VbPbncc76Z3HKjY5D1OHTljC8EaJOvDi",
+  "css": "sha384-pLfbYWXHPCunwnD8Z3PC6qWNjRi/XALGxLIOpV+Y31pZNg0bUZ57FqL2g8943CMK",
+  "js": "sha384-jSEZ96tq7eaPdMVgd1kdVNveFJmBAw5NsAex+R6XL8ml72FMWh9XJiiFC/DPf99d",
   "pages": {
-    "/": "sha384-+3Qoai9zjbVmxQerw+cViVVU/Q47g1AOLTgwqxKHxnqZFVLALjFL5hs5NGEFGy1n",
-    "/404/": "sha384-sDfE5y5QQHIvfLqWudxLAH+5ruWukbyH6VNhL0j3d+Keh2wD0G2C3uGtUDzFagZk",
-    "/docs/api/": "sha384-PrckMWVlY1bSNCRfKHc6pWDcUcvY7AxlVyFBfOVNf/Snejw8z7rFUD7c/9lewc4P",
-    "/getting-started/": "sha384-JI7nyN4YQkWhDTW8Wdsl1M3ZRFmHNqZGeWlqVkLgBtGWK7MquJ/1T5hZ7vASBJMo"
+    "/": "sha384-QmpvO3dm77UBScj87eHaSjmFzBxIGNtnuRlE4lxmEfm/ysGO3n4bGsKPmxSXpkky",
+    "/404/": "sha384-hI1kfiOj52NBk551ujhRUwExZlhRT91BkWlyskmV6CCewmBzseDRTP9SliEk6StO",
+    "/docs/api/": "sha384-ZYgJ/kE9eZoch9P0vvZnZ4Zrkz+E9ZHcuQLNcsomNphvPdhR5yi43PzFeUBSPvt9",
+    "/getting-started/": "sha384-x7f9WgF2ytmSJBrUDvXUX0BbK14D148qmp5wjrtwAlq4vZhLHpPaFJeafYfSdfz/"
   },
   "static": {
     "/CNAME": "sha384-6XzXQu4M2yLm1qecl4aJjft7gR57vdWHo5UpL1wPRr3iJ5UwbAgH3AAVyK8ZX81q",
@@ -14,28 +14,10 @@
     "/browsers/edge.jpg": "sha384-zO6yQr6LvudsaVlkC1m88Pza+5HOj1kPMXzMTJAZGLEw+kwjhrL9oZ/08lxKlSee",
     "/browsers/firefox.jpg": "sha384-RE8XkrOp6xxZHM9pqTcwtI4qinyb6t3umWJFfs3C/4INtZ0E5DyXuBr2Nj1fvrGp",
     "/browsers/opera.jpg": "sha384-4Wno9jzeHT6j1po9sHOXrtKmzgQvNys7unZw5gwjVVnTqy9qe159j+TY+55gAXLT",
-    "/comics/brainlesstales-tofu.jpg": "sha384-7tHJmmYlvwsNq7SLYQuVujY1qPDqaEe0mW457M58i6C3alzcjZTrg9PCJ5c2xgf9",
-    "/comics/sebiwi-trust.jpg": "sha384-NAg2yymkgn3dV/m7AuKxOpZslUBKnlKxXI1CezH5Ft29ApbfW74vnTPAjU2nnKuC",
     "/favicon.ico": "sha384-D3D87R5s7+44HQs9oMtcu1D7CCWtqtgjBjeS4krjx5F9g/rBjQDeqSthu7HAhPA5",
-    "/keybase.txt": "sha384-gJEt/r1LFOdFbzlRkk2M446yxg35C6lgLCEb2sKEyK2mY9gvMlE/akEGJ4zmwhcI",
+    "/keybase.txt": "sha384-fCNtiTLaAiRLFaL5eeBkcgy0XBNGWcS9V1Lm9gNxiRJVCdh2vDrX6HOCbk1OwP1p",
     "/robots.txt": "sha384-BI47ldUoEGOvCrSiwEC53erE5nvEIsfR7icHIZw8WYfF2MIjrg6N9SgMLc5qu8le",
     "/sitemap.xml": "sha384-MIxbpRVZTkl0wOEBGCAJAXkV+AtfIkh+s43wph0fx1a2z8hlOvFntEdkuuiwrsiv",
-    "/support/bwb.jpg": "sha384-9aLznJfxHObD2RjD8dRGvST4xzSkwSwvdG03+8JffR3Oys5dXfyLoKQfipVn6RI9",
-    "/support/metalab.jpg": "sha384-CXvB0qw9s3XJuWAU3EJF+10O/Q+zj8FQPlDb9E5OJZsltuYiwjt8YZ95KhkAqE43",
-    "/support/parallele.jpg": "sha384-3aOEE90DCH4hgKp32781sIFG59GndPByj2bHyNEsjBcAxZewwlAINIc3SYIAwREg",
-    "/team/gilo.jpg": "sha384-wxGdvtVXGOEnkeOLSU1whDTYi4Ud/bcwpeDR/ly3LKajiCVbAnBHMhcpaFM/Rvu7",
-    "/team/jascha.jpg": "sha384-zGrV67x/UZgNGuZc82EfP/Y5/n+PQKx7EAL+G/3NSwSTujKIPQiF0EZOOzZ8TzLr",
-    "/team/kay.jpg": "sha384-7BKZO/ZyzJSlO1f9ODeiJIavB9plNBfEI4bhi/Lrc/S+/8QzHjgEi6QyKUAN92B7",
-    "/team/mark.jpg": "sha384-heArOeSqL+Ji7OD91J5HiwwxwmoyVwvfwju6oOepxAc0gdQ42wFO18WoMOsfsa3j",
-    "/team/michael.jpg": "sha384-pvwd4Cl3gxppuPSmk+lhGVLkg3f7ZiYvMLnVTlZ30xaFam1OXzmIPbWlEuPSHml6",
-    "/techstack/aeternity.jpg": "sha384-TvPu/kcN5SISGg7tBzLLVhJA1vbUU76hcOdoewTLWhsxaK3OBiQJcKZAepI1waLO",
-    "/techstack/cryptohippie.jpg": "sha384-Muc30vBwzsQyNbh3OndYDvzyDluyV0SM2Fz+g74YY1QeDVcxJKXEXDzxDO7g6/vB",
-    "/techstack/github.jpg": "sha384-nJHt2qDbiW4W6wns44glUN4oJ72bPSka5pLJJfbtbhKhj4kpxaq0T1NI28JK4zvm",
-    "/techstack/gitlab.jpg": "sha384-epSWXJ1/pD92kMqqv2IQdficRXbB5S/3f9hWXQCwiQfaIDQJoN5938jFpVSXqEwS",
-    "/techstack/gnupg.jpg": "sha384-l977RBL4dlCxVblcuy66JHcAC96TrUHpFj5TM4Yp19/+qoLF5I2EQyzjXt8iH97/",
-    "/techstack/keybase.jpg": "sha384-VSUSXN3YNPo3CY63pSdXinDIqQVq+zQC2zrdcVDlG7Zy3yGpPa9MJyE5Flj96gLA",
-    "/techstack/nessus.jpg": "sha384-7ZxP4v/xFPGQl3ZEOH58Gs8xMdPhnGCmLL+sygCyXb4z5BMzdhkGx2fQJe21IBxr",
-    "/techstack/tor.jpg": "sha384-4oNmc1m+USJ3Z+611stG7Y8jK8GAvuB7MDIxHoM5YVRX0Yq+3YZKINPF+1X3Atrr",
     "/webboot-preview.jpg": "sha384-NoQZEOAGuuoOjAa6nl8sqCh8qFAsyOaATfduaXSb/he7BIVS9JWioqM2o+fe6ANT"
   }
 }
