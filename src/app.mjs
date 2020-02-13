@@ -1,5 +1,5 @@
 export const state = config => ({
-  title: '@webboot',
+  title: '@webboot documentation',
   description: 'solving the tofu problem, one boot at a time.',
   seo: {
     name: '@webboot',
@@ -15,8 +15,8 @@ export const state = config => ({
     },
   },
   menu: [
-    { to: '/getting-started/', text: 'usage' },
-    { to: '/tofu/', text: 'tofu' },
-    { to: '/tosu/', text: 'tosu' },
+    { to: '/#publisher', text: 'publisher' },
+    { to: '/#publisher', text: 'developer' },
+    { to: '/#user', text: 'user' },
   ],
 })
