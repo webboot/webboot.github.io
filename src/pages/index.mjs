@@ -1,7 +1,3 @@
-export const state = {
-  title: '@webboot',
-}
-
 export const View = state => [
   Hero(state),
 
