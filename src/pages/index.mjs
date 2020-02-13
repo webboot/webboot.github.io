@@ -36,31 +36,58 @@ export const View = state => [
 
     h3('browser extensions'),
 
+    p([
+      'the webboot browser extension ',
+      ' has been uploaded to the respective app stores.',
+    ]),
+    p('to install them, just click the icons below.'),
+
     Browsers(),
   ]),
 
   div({ id: 'publisher' }, [
-    h2('publishers / developers of addressable content'),
+    h2('publishers / developers.'),
 
-    GitList({
-      org: 'webboot',
-      header: 'tools',
-      desc: ['below is a collection of the available @webboot developer tools.'],
-      items: [
-        {
-          name: 'cli',
-          description: 'the @webboot command line interface.',
-        },
-        {
-          name: 'webboot-magic-embed - unreleased',
-          description: 'the @webboot command line interface.',
-        },
-        {
-          name: 'gui - unreleased',
-          description: 'the @webboot gui, exposing the cli features.',
-        },
-      ],
-    }),
+    p('publishers / developers of addressable content can use the command line interface for now.'),
+    p('we are working on a graphical user interface to accompany the cli.'),
+    p('in addition, we are working on integrations for various static page generators like magic, gatsby and vuepress.'),
+
+    h3(['cli', i(' - release: 22. 2. 2020')]),
+
+    p('first, install webboot.'),
+    Pre('npm install -g webboot'),
+
+    p('then, go to the directory with your public page and run'),
+    Pre('webboot'),
+    p('webboot will guide you through the process.'),
+
+    h3('app widgets', i(' - release time: soon')),
+
+    p('the webboot app widget allows you to embed the webboot gui into your page.'),
+    p([
+      'this allows you to show the webboot gui to every one of your users,',
+      ' even those that did not yet install any of the browser extensions.'
+    ]),
+
+    p('see below for available integrations:'),
+
+    ul([
+      li([
+        h4([Link({ to: 'https://magic.github.io', text: '@magic' }), i(' - release: 22. 2. 2020')]),
+        p([
+          '@magic is a static page generator that generates',
+          ' about 10kb of uncompressed html + css + js boilerplate.',
+        ]),
+        p(['made by the people that made @webboot.']),
+      ]),
+      li([
+        h4([Link({ to: 'https://www.gatsbyjs.org/', text: 'gatsby' }), i(' - coming soon')]),
+        p([
+          'gatsby is a free and open source framework based on react',
+          ' and helps developers build blazing fast websites and apps.',
+        ]),
+      ]),
+    ]),
   ]),
 
   div({ id: 'validator' }, [
