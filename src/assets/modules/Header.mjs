@@ -8,7 +8,7 @@ export const View = (props = {}) => {
     div([
       Link({ to: state.root, class: 'Logo' }, [
         Boot(),
-        div({ class: 'branding' }, [span('@web'), 'boot']),
+        div({ class: 'branding' }, [span('@web'), 'boot docs']),
       ]),
       menu && Menu({ state, items: menu }),
     ]),
@@ -29,6 +29,7 @@ export const style = vars => ({
       backgroundColor: vars.text.light,
     },
   },
+
   '.branding': {
     float: 'left',
     fontSize: '1.5em',
