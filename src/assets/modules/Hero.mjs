@@ -6,9 +6,9 @@ export const View = state =>
 
     Menu({
       items: [
-        { to: '/#about', text: 'about' },
-        { to: '/getting-started/', text: 'getting started' },
-        { to: '/#support', text: 'support' },
+        { to: '/#publisher', text: 'publisher' },
+        { to: '/#publisher', text: 'developer' },
+        { to: '/#user', text: 'user' },
       ],
       state,
     }),
