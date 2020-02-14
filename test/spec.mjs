@@ -4,6 +4,6 @@ import * as page from '../src/pages/index.mjs'
 
 export default [
   { fn: () => app, expect: is.object },
-  { fn: () => app.state, expect: is.object },
+  { fn: () => app.state, expect: is.fn },
   { fn: () => page.View, expect: is.fn },
 ]
