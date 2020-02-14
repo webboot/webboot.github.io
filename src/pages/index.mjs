@@ -28,7 +28,7 @@ export const View = state => [
   div({ id: 'user' }, [
     h2('users of addressable content'),
     p('do you use a browser?'),
-    p('install one of our browser extensions to add additional security to their browser now.'),
+    p('install one of our browser extensions to add additional security to your browser now.'),
 
     h3('browser extensions'),
 
