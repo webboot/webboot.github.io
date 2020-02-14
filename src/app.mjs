@@ -15,8 +15,8 @@ export const state = config => ({
     },
   },
   menu: [
-    { to: '/#publisher', text: 'publisher' },
-    { to: '/#publisher', text: 'developer' },
     { to: '/#user', text: 'user' },
+    { to: '/#publisher', text: 'developer' },
+    { to: '/#publisher', text: 'publisher' },
   ],
 })
