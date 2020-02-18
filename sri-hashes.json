@@ -1,11 +1,11 @@
 {
-  "css": "sha384-pLfbYWXHPCunwnD8Z3PC6qWNjRi/XALGxLIOpV+Y31pZNg0bUZ57FqL2g8943CMK",
-  "js": "sha384-b0fV8HorGZV/O56K8jewyWVEeZtfmHkucBFV91475JnzGQQGWlBQeJc++HElQ+c6",
+  "css": "sha384-tB6neIv89Tq210x6eT5p/VEMOhXu9N0s7Vs4l6aZoPHNiSEUgS2yPOjKqnhPLoTd",
+  "js": "sha384-VIpPpZvZ0RhtxLsQfIUe9FFBp6t5VRLgjaemvY+WMkbPgCdOAW6+NTZvRoI/T5e1",
   "pages": {
-    "/": "sha384-/wLhRb1YQFiuJ+wEn2yiMdH1oVCyV+eG4CDAAOhAbv9/9YTME8Da57sfyYfMM8Cy",
-    "/404/": "sha384-VkLuN2oaSsBTEYw0ci7H2z3hBYzvRKGvdsu+lPc1fU4K0N+unPZfCKBM3zM59iiS",
-    "/docs/api/": "sha384-0Jlz1lnFcK1mRFRuIOU/2cATb/u3rEgmvtbZ+NBjpWNXELOrThnm7LqVavK2DXm0",
-    "/getting-started/": "sha384-7zs1PBczYOQspxh/Kipn2xc8d6l3pR/PblIajBqL3WVSkBXqzD+thH5027pbXGtb"
+    "/": "sha384-P5pZr7HX0UPBq5FhVqsSsDV0F9VE8Eaj4BwUxBkbfrkUuhbZq8X3ijoGGVAG1zI8",
+    "/404/": "sha384-am1KWaZ5r9mBdPSdUlKdAXBQy9iZWoEeaAVXefp65dtlPsjfcgubJtmnRLxq59hw",
+    "/docs/api/": "sha384-AZaEWlHOkIEkkAjcx82izU5ZpZ0Yn33vfyzK1l9l9T1Bcaq1Vcx37uuDu3FDJep5",
+    "/getting-started/": "sha384-VbGP6OnMTU5TEalECI2ql/tOFXMslvK4TF6eZeXGn89cZgjNmENkICS+peHlHIYT"
   },
   "static": {
     "/CNAME": "sha384-6XzXQu4M2yLm1qecl4aJjft7gR57vdWHo5UpL1wPRr3iJ5UwbAgH3AAVyK8ZX81q",
