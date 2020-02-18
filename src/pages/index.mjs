@@ -55,7 +55,7 @@ export const View = state => [
     Pre('webboot'),
     p('webboot will guide you through the process.'),
 
-    h3('app widgets', i(' - release time: soon')),
+    h3(['app widgets', i(' - coming soon')]),
 
     p('the webboot app widget allows you to embed the webboot gui into your page.'),
     p([
