@@ -68,7 +68,7 @@ export const View = state => [
 
     ul([
       li([
-        h4([Link({ to: 'https://magic.github.io', text: '@magic' }), i(' - release: 22. 2. 2020')]),
+        h4([Link({ to: 'https://magic.github.io', text: '@magic' }), i(' - coming soon')]),
         p([
           '@magic is a static page generator that generates',
           ' about 10kb of uncompressed html + css + js boilerplate.',
