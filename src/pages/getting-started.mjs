@@ -8,10 +8,10 @@ export const View = state =>
 
     p([
       'we are still working on the tools described below,',
-      ' our semi-public alpha starts on 22. 2. 2020.',
+      ' our semi-public alpha will start soon.',
     ]),
 
-    h3(['cli', i(' - release: 22. 2. 2020')]),
+    h3(['cli', i(' - coming soon')]),
 
     p('first, install webboot.'),
     Pre('npm install -g webboot'),
@@ -20,7 +20,7 @@ export const View = state =>
     Pre('webboot'),
     p('webboot will guide you through the process.'),
 
-    h3(['browser extensions', i(' - release: 22. 2. 2020')]),
+    h3(['browser extensions', i(' - coming soon')]),
 
     p([
       'the webboot browser extension for both firefox and chrome',
@@ -35,7 +35,7 @@ export const View = state =>
     p('see below for available integrations:'),
     ul([
       li([
-        h4([Link({ to: 'https://magic.github.io', text: '@magic' }), i(' - release: 22. 2. 2020')]),
+        h4([Link({ to: 'https://magic.github.io', text: '@magic' }), i(' - coming soon')]),
         p([
           '@magic is a static page generator that generates about 15kb of html + css + js boilerplate.',
         ]),
@@ -50,7 +50,7 @@ export const View = state =>
       ]),
     ]),
 
-    h3(['db', i(' - release: 22. 2. 2020')]),
+    h3(['db', i(' - coming soon')]),
     p('the webboot validator servers will provide a publicly queryable database of hashes.'),
     p('those hashes will be published and mirrored to three locations:'),
     p(Link({ to: 'https://github.com/webboot/db', text: 'github backup' })),

@@ -5,7 +5,6 @@ export const View = state => [
     h2('early bird <3'),
     p([
       'hello, you are here a bit early.',
-      ' the first time we will be publishing information about @webboot is the 22. 02. 2020.',
       ' feel free to poke around,',
       ' but as long as this notice is here,',
       ' most documentation on this page will not be accurate (yet).',
@@ -48,7 +47,7 @@ export const View = state => [
     p('we are working on a graphical user interface to accompany the cli.'),
     p('in addition, we are working on integrations for various static page generators like magic, gatsby and vuepress.'),
 
-    h3(['cli', i(' - release: 22. 2. 2020')]),
+    h3(['cli', i(' - coming soon')]),
 
     p('first, install webboot.'),
     Pre('npm install -g webboot'),
