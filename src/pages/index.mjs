@@ -31,10 +31,7 @@ export const View = state => [
 
     h3('browser extensions'),
 
-    p([
-      'the webboot browser extension ',
-      ' has been uploaded to the respective app stores.',
-    ]),
+    p(['the webboot browser extension ', ' has been uploaded to the respective app stores.']),
     p('to install them, just click the icons below.'),
 
     Browsers(),
@@ -45,7 +42,9 @@ export const View = state => [
 
     p('publishers / developers of addressable content can use the command line interface for now.'),
     p('we are working on a graphical user interface to accompany the cli.'),
-    p('in addition, we are working on integrations for various static page generators like magic, gatsby and vuepress.'),
+    p(
+      'in addition, we are working on integrations for various static page generators like magic, gatsby and vuepress.',
+    ),
 
     h3(['cli', i(' - coming soon')]),
 
@@ -61,7 +60,7 @@ export const View = state => [
     p('the webboot app widget allows you to embed the webboot gui into your page.'),
     p([
       'this allows you to show the webboot gui to every one of your users,',
-      ' even those that did not yet install any of the browser extensions.'
+      ' even those that did not yet install any of the browser extensions.',
     ]),
 
     p('see below for available integrations:'),
