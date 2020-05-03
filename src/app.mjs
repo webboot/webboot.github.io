@@ -35,6 +35,7 @@ export const state = config => ({
       { to: '/#user', text: 'user' },
     ],
   },
+
   footer: {
     one: {
       title: '@webboot',
