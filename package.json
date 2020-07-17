@@ -30,7 +30,7 @@
     "@magic-modules/pre": "0.0.8",
     "@magic-themes/project": "0.0.19",
     "@magic/core": "0.0.85",
-    "@webboot/magic-theme": "0.0.5"
+    "@webboot/magic-theme": "0.0.7"
   },
   "devDependencies": {
     "@magic/format": "0.0.12",
