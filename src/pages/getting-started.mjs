@@ -90,13 +90,13 @@ export const View = state =>
       li([
         h4(Link({ to: 'https://github.com/webboot/core' }, '@webboot/core')),
         p('the core library functionality of @webboot. used both in clients and on the server.'),
-        p(Link({ to: 'https://webboot.github.io/core' }, 'docs')),
+        p(Link({ to: 'https://docs.webboot.org/core' }, 'docs')),
       ]),
 
       li([
         h4(Link({ to: 'https://github.com/webboot/cli' }, '@webboot/cli')),
         p('command line interface exposing the @webboot functionality to bash'),
-        p(Link({ to: 'https://webboot.github.io/cli' }, 'docs')),
+        p(Link({ to: 'https://docs.webboot.org/cli' }, 'docs')),
       ]),
 
       li([
@@ -105,13 +105,13 @@ export const View = state =>
           'all cryptographic functionality of @webboot,',
           ' split into a separate repository to make testing and auditing easier.',
         ]),
-        p(Link({ to: 'https://webboot.github.io/crypto' }, 'docs')),
+        p(Link({ to: 'https://docs.webboot.org/crypto' }, 'docs')),
       ]),
 
       li([
         h4(Link({ to: 'https://github.com/webboot/keys' }, '@webboot/keys')),
         p('the @webboot pgp public key and fingerprint.'),
-        p(Link({ to: 'https://webboot.github.io/keys' }, 'keys')),
+        p(Link({ to: 'https://docs.webboot.org/keys' }, 'keys')),
       ]),
     ]),
   ])
