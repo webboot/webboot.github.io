@@ -29,12 +29,12 @@
     "@magic-modules/no-spy": "0.0.5",
     "@magic-modules/pre": "0.0.9",
     "@magic-themes/project": "0.0.23",
-    "@magic/core": "0.0.91",
+    "@magic/core": "0.0.94",
     "@webboot/magic-theme": "0.0.7"
   },
   "devDependencies": {
-    "@magic/format": "0.0.17",
-    "@magic/test": "0.1.56"
+    "@magic/format": "0.0.19",
+    "@magic/test": "0.1.58"
   },
   "keywords": [
     "webboot",
